@@ -1,16 +1,23 @@
-# localmart
+# LocalMart 🛒
 
-A new Flutter project.
+LocalMart is a Flutter application designed to help **local vendors and small shops**
+sell their products online and reach nearby customers easily.
 
-## Getting Started
+## ✨ Features
+- User authentication (Login / Signup)
+- Browse products from local vendors
+- Add products to cart
+- QR code scanning
+- Order management
+- Clean and simple UI
 
-This project is a starting point for a Flutter application.
+## 🛠 Tech Stack
+- Flutter (Dart)
+- REST APIs
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ⚙️ How to Run Locally
+```bash
+flutter pub get
+flutter run
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
